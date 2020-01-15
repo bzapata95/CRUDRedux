@@ -19,6 +19,11 @@
       "id": 6,
       "nombre": "Aprende react hook 20 20 20",
       "precio": "50"
+    },
+    {
+      "id": 6,
+      "nombre": "Producto 2020",
+      "precio": "50"
     }
   ]
 }
